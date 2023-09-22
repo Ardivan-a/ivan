@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Html dasar</title>
+</head>
+<body>
+<p>Hello World!</p>
+<p>Code Editor</p>
+<p>Tag</p>
+<p>paragraf</p>
+<p>Heding</p>
+<p>List</p>
+<p>Hyperlink</p>
+<p>Image</p>
+<p>Table</p>
+<p>Table Margin</p>
+<p>Form</p>
+<p>Form Lanjutan</p>
+</body>
+</html>
